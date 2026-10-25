@@ -3,14 +3,22 @@
     "name": "ChessApp",
     "slug": "ChessApp",
     "version": "1.0.0",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "chessapp",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/expo.icon"
+      "bundleIdentifier": "com.chessapp.mobile",
+      "buildNumber": "1",
+      "icon": "./assets/expo.icon",
+      "supportsTablet": true
     },
     "android": {
+      "package": "com.chessapp.mobile",
+      "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",

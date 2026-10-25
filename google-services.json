@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701416920931",
+    "project_id": "chessapp175",
+    "storage_bucket": "chessapp175.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701416920931:android:2be46f2a49d9cb5e4ba556",
+        "android_client_info": {
+          "package_name": "com.zorvex.chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701416920931-pos66uh2q4e182tk6am8um6cgbqk0r4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7masyHsbgMVfkV1UHyPE6iDV1sMUIvZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701416920931-pos66uh2q4e182tk6am8um6cgbqk0r4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
